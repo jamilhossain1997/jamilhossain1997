@@ -1,13 +1,13 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=42A5F5&center=true&vCenter=true&lines=Hi+there!+I'm+Md.+Jamil+Hossain+👋;Full+Stack+Developer+🚀;I+❤+React+%26+Node.js;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=42A5F5&center=true&vCenter=true&lines=Hi+there!+I'm+Md.+Jamil+Hossain+👋;Full+Stack+Developer+🚀;I+❤+React+%26+Node.js+%26+PHP+And+Laravel;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me:
-- 🧑‍💼 Full Stack Developer with **2.5 years of experience**.
+- 🧑‍💼 Full Stack Developer with **3 years of experience**.
 - 💻 Skilled in **React JS, Next JS, Node JS, PHP, Laravel**.
 - 🎯 Passionate about **JavaScript**, APIs, and building responsive UIs.
 - 🌱 Currently learning **Docker** and **Cloud Deployments**.
