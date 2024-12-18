@@ -88,7 +88,10 @@
   <img src="https://img.shields.io/badge/Commit%20Streak%20🔥-Challenge%20Accepted-red" />
 </p>
 
-## 🎮 Play Tetris:
+## 🎮 Play Soldier Attack 2:
 <p align="center">
- <div><script src="https://cdn.htmlgames.com/embed.js?game=SoldierAttack2&amp;bgcolor=white"></script></div>
+  <a href="https://htmlgames.com/SoldierAttack2/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Soldier%20Attack%202-Here-ff69b4?style=for-the-badge&logo=game&logoColor=white" />
+  </a>
 </p>
+
