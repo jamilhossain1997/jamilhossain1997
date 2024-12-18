@@ -79,3 +79,11 @@
 
 
 ---
+
+## 🎮 GitHub Profile Games:
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Mode-Unlocked%20🕹️-blue" />
+  <img src="https://img.shields.io/badge/Coding%20Level-Expert%20🚀-green" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-50+-purple" />
+  <img src="https://img.shields.io/badge/Commit%20Streak%20🔥-Challenge%20Accepted-red" />
+</p>
