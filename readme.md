@@ -55,12 +55,20 @@
 <!-- Contact Section -->
 ## 🔗 Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/jamil-hossain-259819219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jamilhossain1997@example.com" target="_blank">
+  <a href="mailto:jamilhossain4792@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+## 📄 Download My CV:
+<p align="center">
+  <a href="https://drive.google.com/file/d/19pXyV9DNovkCZ-QPLRQLoI4k_IZ4ttrH/view?usp=sharing" download target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 
 ---
