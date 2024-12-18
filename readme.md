@@ -87,3 +87,8 @@
   <img src="https://img.shields.io/badge/Projects%20Completed-50+-purple" />
   <img src="https://img.shields.io/badge/Commit%20Streak%20🔥-Challenge%20Accepted-red" />
 </p>
+
+## 🎮 Play Tetris:
+<p align="center">
+ <div><script src="https://cdn.htmlgames.com/embed.js?game=SoldierAttack2&amp;bgcolor=white"></script></div>
+</p>
