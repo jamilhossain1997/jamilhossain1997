@@ -30,6 +30,13 @@
 
 ---
 
+## 🌟 My Interests:
+- 🎮 Gaming enthusiast, especially strategy and action games.
+- 🚴‍♂️ Cycling and exploring nature trails.
+- 🎧 Enjoy listening to lo-fi beats and soft rock music.
+- 📚 Love reading about tech trends and self-improvement books.
+- 🍳 Cooking and experimenting with new recipes.
+
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats:
 <p align="center">
