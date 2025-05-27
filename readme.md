@@ -37,19 +37,6 @@
 - 📚 Love reading about tech trends and self-improvement books.
 - 🍳 Cooking and experimenting with new recipes.
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamilhossain1997&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jamilhossain1997&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilhossain1997&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<!-- Contact Section -->
 ## 🔗 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/jamil-hossain-259819219/" target="_blank">
