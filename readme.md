@@ -49,16 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilhossain1997&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
-
-<!-- Contributions Graph -->
-## 🚀 Contribution Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamilhossain1997&theme=react-dark&hide_border=true" alt="Contribution Graph">
-</p>
-
----
-
 <!-- Contact Section -->
 ## 🔗 Connect With Me:
 <p align="center">
