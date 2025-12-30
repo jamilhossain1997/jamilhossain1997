@@ -8,7 +8,7 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me:
 - 🧑‍💼 Full Stack Developer with **3 years of experience**.
-- 💻 Skilled in **React JS, Next JS, Node JS, PHP, Laravel**.
+- 💻 Skilled in **React JS, Next JS, Node JS, PHP, Laravel,Golang**.
 - 🎯 Passionate about **JavaScript**, APIs, and building responsive UIs.
 - 🌱 Currently learning **Docker** and **Cloud Deployments**.
 - ⚡ Fun Fact: I believe in **code + coffee = happiness! ☕**
