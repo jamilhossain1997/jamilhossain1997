@@ -8,7 +8,7 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me:
 - 🧑‍💼 Full Stack Developer with **4 years of experience**.
-- 💻 Skilled in **React JS, Next JS, Node JS, PHP, Laravel,Golang,Flutter**.
+- 💻 Skilled in **React JS, Next JS,Nuxt JS,Node JS,Express JS,Nest JS,PHP, Laravel,Golang,Flutter**.
 - 🎯 Passionate about **JavaScript**, APIs, and building responsive UIs.
 - 🌱 Currently learning **Docker**,**Cloud Deployments** And **kubernetes**.
 - ⚡ Fun Fact: I believe in **code + coffee = happiness! ☕**
