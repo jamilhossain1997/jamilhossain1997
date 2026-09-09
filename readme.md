@@ -49,7 +49,7 @@
 
 ## 📄 Download My CV:
 <p align="center">
-  <a href="https://drive.google.com/file/d/19pXyV9DNovkCZ-QPLRQLoI4k_IZ4ttrH/view?usp=sharing" download target="_blank">
+  <a href="https://drive.google.com/file/d/1146vlZL9r6d-uqBFrTEJohseYbi3jxsw/view?usp=sharing" download target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
