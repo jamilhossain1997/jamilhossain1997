@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&color=42A5F5&center=true&vCenter=true&lines=Hi+there!+I'm+Md.+Jamil+Hossain;Full+Stack+Software+Developer;LLM+%26+AI+Engineering+🤖;React+%26+Next.js+%26+Vue+%26+Nuxt.js;Node.js+%26+Express.js+%26+NestJS;PHP+%26+Laravel;Building+Scalable+Web+%26+AI-Powered+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=20&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Md.+Jamil+Hossain;Full+Stack+Software+Developer;LLM+%26+AI+Engineering;React+%26+Next.js+%26+Vue+%26+Nuxt.js;Node.js+%26+Express.js+%26+NestJS;PHP+%26+Laravel;Building+Scalable+Web+%26+AI-Powered+Applications" alt="Typing SVG" />
 </p>
 
 ---
