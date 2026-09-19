@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=42A5F5&center=true&vCenter=true&lines=Hi+there!+I'm+Md.+Jamil+Hossain+👋;Full+Stack+Developer+🚀;I+❤+React+%26+Node.js+%26+PHP+And+Laravel;Welcome+to+my+GitHub+Profile!">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&color=42A5F5&center=true&vCenter=true&lines=Hi+there!+I'm+Md.+Jamil+Hossain+👋;Full+Stack+Software+Developer+🚀;LLM+%26+AI+Engineering+Enthusiast+🤖;React+%26+Node.js+%26+PHP+%26+Laravel;Building+Scalable+Web+%26+AI+Applications;Welcome+to+my+GitHub+Profile!">
 </p>
 
 ---
